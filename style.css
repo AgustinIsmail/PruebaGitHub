@@ -1,0 +1,9 @@
+div {
+  background-image: url("images/background.jpg");
+  background-repeat: no-repeat;
+    /*Hace que la imagen no se repita*/
+  background-attachment: fixed;
+    /*Hace que la imagen no se mueva con el scroll*/
+  background-size: 100% 100%;
+  /*Agranda la imagen para que ocupe toda la pantalla*/
+}
